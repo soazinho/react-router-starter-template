@@ -53,10 +53,6 @@ npm run build
 
 ### Docker Deployment
 
-This template includes three Dockerfiles optimized for different package managers:
-
-- `Dockerfile` - for npm
-
 To build and run using Docker:
 
 ```bash
